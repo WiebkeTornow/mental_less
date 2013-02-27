@@ -12,7 +12,7 @@ class Editor
   
   COL = [ '1 Text', '1 Image', '2 Text', '2 Image' ]
   
-  SPECIAL_CHARS = "∑∏αβ≤≠≥⇒→∈∉∩∪∅∫"
+  SPECIAL_CHARS = "∑∏παβσϒΩω≤≠≡≥⇒→↔⇔⊆⊇⊂⊃⋀⋁∈∉⋃⋂∅∞ℝℕ∫∃∀⊨⊢□⋄⌈⌉⌊⌋✔・⬟➀➁➂➃➄➅➆➇➈➉"
   
   def initialize(name)
     @name        = name
